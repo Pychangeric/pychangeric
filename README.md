@@ -1,3 +1,5 @@
+# HI, I'IM ERIC
+
 # 💫 About Me:
 🔭 I’m currently working with React JS, CSS, javascript and using them to build fun, creative<br>     Web Projects<br>- 🌱 I’m currently learning ruby and python<br>- 👯 I’m looking to collaborate with Junior Developer roles or Partnership with <br>        other young developers<br>- 🤔 I’m looking for help with ...<br>- 💬 Ask me about coding <br>- 📫 How to reach me is by g-mail:pychaeric@gmail.com<br>- 😄 Pronouns: ...Wolfeschlegelsteinhausenbergerdorff 
 
